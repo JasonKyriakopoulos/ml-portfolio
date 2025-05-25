@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JasonKyriakopoulos/ml-portfolio/static/css/main.125e41ca.css",
+    "main.js": "/JasonKyriakopoulos/ml-portfolio/static/js/main.b3913dd6.js",
+    "index.html": "/JasonKyriakopoulos/ml-portfolio/index.html",
+    "main.125e41ca.css.map": "/JasonKyriakopoulos/ml-portfolio/static/css/main.125e41ca.css.map",
+    "main.b3913dd6.js.map": "/JasonKyriakopoulos/ml-portfolio/static/js/main.b3913dd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.125e41ca.css",
+    "static/js/main.b3913dd6.js"
+  ]
+}
